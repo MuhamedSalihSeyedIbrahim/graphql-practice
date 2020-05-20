@@ -1,8 +1,11 @@
 ﻿# graphql-practice
- Note: 
+ 
+ ##Note: 
+ ```
  This Repo is educational resources and practice I have tried.
  This repo contain web scrapped doc as .md file from graphql official documentation
  material credits : https://graphql.org/graphql-js/
+ ```
  
 # GraphQL HTTP Server Middleware
 
