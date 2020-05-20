@@ -1,0 +1,32 @@
+{
+  "name": "graphql-practice",
+  "version": "1.0.0",
+  "description": "A back end graphql practice activity ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhamedSalihSeyedIbrahim/graphql-practice.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "graphql",
+    "mongoose"
+  ],
+  "author": "MUHAMED SALIH SI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhamedSalihSeyedIbrahim/graphql-practice/issues"
+  },
+  "homepage": "https://github.com/MuhamedSalihSeyedIbrahim/graphql-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "graphql-tools": "^5.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
