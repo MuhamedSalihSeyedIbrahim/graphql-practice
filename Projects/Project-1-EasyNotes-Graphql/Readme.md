@@ -1,6 +1,11 @@
 # EasyNotes Application
 
+```
 Build a Restful CRUD API for a simple Note-Taking application using Node.js, Express and MongoDB.
+
+This application has both Express rest API implementation and 
+graphql version implemented
+```
 
 ## Steps to Setup
 
