@@ -23,10 +23,13 @@
   },
   "homepage": "https://github.com/MuhamedSalihSeyedIbrahim/graphql-practice#readme",
   "dependencies": {
+    "altair-express-middleware": "^2.4.7",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^15.0.0",
     "graphql-tools": "^5.0.0",
-    "node-fetch": "^2.6.0"
+    "graphql-upload": "^10.0.0",
+    "node-fetch": "^2.6.0",
+    "validator": "^13.0.0"
   }
 }
