@@ -30,6 +30,6 @@
     "graphql-tools": "^5.0.0",
     "graphql-upload": "^10.0.0",
     "node-fetch": "^2.6.0",
-    "validator": "^13.0.0"
+    "validator": "^13.1.0"
   }
 }
