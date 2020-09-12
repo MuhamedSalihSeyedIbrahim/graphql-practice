@@ -29,7 +29,7 @@
     "graphql": "^15.0.0",
     "graphql-tools": "^5.0.0",
     "graphql-upload": "^10.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "validator": "^13.0.0"
   }
 }
